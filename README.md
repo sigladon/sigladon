@@ -1,4 +1,9 @@
-### Welcome 👋
+### Welcome to my github! 😁
+
+- I'm currently studying computer science at the University of Cuenca. 🖥
+- Frontend developer. 🧩
+- Learning to write in LaTex. 🤗
+- Aguante Megadeth! 😎
 
 <!--
 **sigladon/sigladon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
