@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm [Your Name]
+### 👋 Hi there! I'm Rafael
 
 Studying CS at University of Cuenca. I like to take challenges, that's why I ended using vim.
 
