@@ -1,42 +1,34 @@
 ### 👋 Hi there! I'm Rafael
 
-Studying CS at University of Cuenca. I like to take challenges, that's why I ended using vim.
+Studying Computer Science at University of Cuenca. I like to take challenges, that's why I ended using vim I guess.
 
 ---
 
 ### 🧰 Tech Stack
 
 **Languages:**  
-JavaScript · TypeScript · Java · Dart · C · Julia · Bash · Dart
+JavaScript · TypeScript · Java · Dart · C · Julia · Bash · Dart · Scala · Python
 
 **Frontend:**  
-HTML · CSS · Flutter · ReactJs
+HTML · CSS · Flutter · ReactJS · NextJS
 
 **Other Tools & Frameworks:**  
-Neovim · JavaFX · Git · GitHub · Linux · VSCode · IntelliJ
+Neovim · JavaFX · Git · GitHub · Linux · VSCode · IntelliJ · Postgresql
 
 ---
 
 ### 🚀 Featured Projects
 In progress
 <!--
-- 🎮 [Elimination Game in Java](https://github.com/yourusername/elimination-game)  
-  A JavaFX game using the MVC pattern, with input validation and turn management.
-
 - 📱 [Routine App in Flutter](https://github.com/yourusername/routine-app)  
   A mobile app with offline-first architecture using Isar and sync logic.
-
-- 🧮 [Numerical Methods in Julia](https://github.com/yourusername/julia-numerics)  
-  Implementations of the Newton-Raphson method with automatic differentiation via ForwardDiff.
-
 -->
 ---
 
 ### 🎯 Currently Working On
 
-- Improving my Flutter apps with MVVM architecture  
-- Syncing offline/online data in mobile apps  
-- Exploring backend efficiency and clean architecture
+- Improving my Flutter apps with MVVM architecture.
+- Exploring backend efficiency and clean architecture.
 
 ---
 
